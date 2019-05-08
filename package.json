@@ -1,0 +1,41 @@
+{
+  "_from": "github:meishuu/tera-data",
+  "_id": "tera-data@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/tera-data",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "tera-data@github:meishuu/tera-data",
+    "name": "tera-data",
+    "escapedName": "tera-data",
+    "rawSpec": "github:meishuu/tera-data",
+    "saveSpec": "github:meishuu/tera-data",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:meishuu/tera-data#82e04515846a459a71c8f911529b0d29298a7003",
+  "_spec": "tera-data@github:meishuu/tera-data",
+  "_where": "C:\\Users\\Kevin\\tera-discord-relay",
+  "author": {
+    "name": "meishu"
+  },
+  "bugs": {
+    "url": "https://github.com/meishuu/tera-data/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Platform agnostic repository for information about TERA packets and system messages.",
+  "homepage": "https://github.com/meishuu/tera-data#readme",
+  "main": "package.json",
+  "name": "tera-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meishuu/tera-data.git"
+  },
+  "version": "1.0.0"
+}
