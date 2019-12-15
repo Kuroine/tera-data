@@ -1,5 +1,3 @@
-# majorPatchVersion < 80
-
 uint64 gameId
 vec3   loc
 int32  item

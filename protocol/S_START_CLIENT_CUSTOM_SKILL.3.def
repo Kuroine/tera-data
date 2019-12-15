@@ -1,3 +1,5 @@
-# majorPatchVersion >= 74
+# majorPatchVersion == 72
 
-skillid skill
+uint64 gameId
+skillid32 skill
+uint32 unk # probably a bug (already using 64 bits here prior to patch 74)

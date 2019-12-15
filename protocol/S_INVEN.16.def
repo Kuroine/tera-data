@@ -1,5 +1,3 @@
-# majorPatchVersion < 79
-
 uint64 gameId
 int64  gold
 bool   open

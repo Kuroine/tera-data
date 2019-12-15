@@ -1,4 +1,4 @@
-# majorPatchVersion >= 75 && majorPatchVersion < 79
+# MajorPatchVersion >= 75
 
 uint64 gameId
 uint64 target

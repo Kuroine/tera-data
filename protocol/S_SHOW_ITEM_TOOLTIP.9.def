@@ -1,5 +1,3 @@
-# majorPatchVersion < 80
-
 int32  type # 17 = persistent, 20 = hover, 28 = new etching
 uint64 id
 uint32 dbid
