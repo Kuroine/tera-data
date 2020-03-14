@@ -1,41 +1,7 @@
 {
-  "_from": "github:Kuroine/tera-data",
-  "_id": "tera-data@1.0.0",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/tera-data",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "tera-data@github:Kuroine/tera-data",
-    "name": "tera-data",
-    "escapedName": "tera-data",
-    "rawSpec": "github:Kuroine/tera-data",
-    "saveSpec": "github:Kuroine/tera-data",
-    "fetchSpec": null,
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "github:Kuroine/tera-data#e4598a2e2179864c9769b470f9ff7d193fba3e6b",
-  "_spec": "tera-data@github:Kuroine/tera-data",
-  "_where": "C:\\Users\\Kevin\\Desktop\\velika",
-  "author": {
-    "name": "meishu"
-  },
-  "bugs": {
-    "url": "https://github.com/meishuu/tera-data/issues"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Platform agnostic repository for information about TERA packets and system messages.",
-  "homepage": "https://github.com/meishuu/tera-data#readme",
-  "main": "package.json",
-  "name": "tera-data",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/meishuu/tera-data.git"
-  },
-  "version": "1.0.0"
+	"name": "tera-data",
+	"version": "0.1.0",
+	"main": "package.json",
+	"description": "Platform agnostic information about TERA packets and enums.",
+	"author": "Pinkie Pie"
 }
