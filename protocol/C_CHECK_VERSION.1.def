@@ -1,3 +1,6 @@
-array version
+count  version
+offset version
+
+array  version
 - int32 index
 - int32 value

@@ -1,6 +1,7 @@
-string sound
+offset sound
 uint64 cid
 uint32 unk
 float x
 float y
 float z
+string sound

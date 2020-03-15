@@ -1,8 +1,12 @@
-array events
-- string initiator
-- string description
-- int64  date
-- int32  event
+count  events
+offset events
 
 int32 page
 int32 pages
+array events
+- offset initiator
+- offset description
+- int64  date
+- int32  event
+- string initiator
+- string description

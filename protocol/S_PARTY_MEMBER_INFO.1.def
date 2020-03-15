@@ -1,5 +1,9 @@
+count  members
+offset members
+string info
+
 array  members
-- string name
+- offset name
 - uint64 pID
 - int32  level
 - int32  class
@@ -8,4 +12,4 @@ array  members
 - int32  order
 - byte   canInvite
 - int32  unk
-string info
+- string name

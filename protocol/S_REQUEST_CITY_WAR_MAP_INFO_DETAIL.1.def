@@ -1,5 +1,5 @@
 array guilds
-- string name
-- string gm
-- string logo
-- uint32 id
+-uint32 id
+-string name
+-string gm
+-string logo

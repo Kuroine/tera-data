@@ -1,5 +1,8 @@
+count purchases
+offset purchases
+
 array purchases
-- string name
+- offset name
 - int32 purchase
 - int32 unk1
 - int32 unk2
@@ -25,3 +28,4 @@ array purchases
 - int32 unk17
 - int32 unk18
 - int32 unk19
+- string name

@@ -1,13 +1,3 @@
-array  icons
-- int32 icon
-array  accountBenefits
-- int32 packageId
-string name
-string guildName
-string guildRank
-bytes  details
-string guildLogo
-bytes  shape
 uint32 serverId
 uint32 playerId
 uint64 gameId
@@ -84,3 +74,16 @@ bool   showStyle
 int64  titleCount
 int32  appearance2
 float  scale
+
+array  icons
+- int32 icon
+
+array  accountBenefits
+- int32 packageId
+
+string name
+string guildName
+string guildRank
+bytes  details
+string guildLogo
+bytes  shape

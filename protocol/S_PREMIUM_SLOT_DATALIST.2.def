@@ -1,6 +1,7 @@
 # majorPatchVersion >= 82
 
 array sets
+- int32 id
 - array inventory
 - - int32 slot
 - - int32 unk1
@@ -10,4 +11,3 @@ array sets
 - - int64 cooldown              # milliseconds
 - - int64 cooldownRemaining     # milliseconds
 - - bool unk2
-- int32 id

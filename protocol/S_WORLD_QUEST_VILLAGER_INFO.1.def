@@ -1,3 +1,6 @@
+count npcs
+offset npcs
+
 array npcs
 - int32 unk1
 - int32 template

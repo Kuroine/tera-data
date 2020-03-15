@@ -1,2 +1,2 @@
-string serverName
 uint64 accountId
+string serverName

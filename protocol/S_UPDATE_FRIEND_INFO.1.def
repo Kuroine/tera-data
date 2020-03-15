@@ -1,5 +1,7 @@
+count  friends
+offset friends
 array  friends
-- string name
+- offset name
 - uint32 id
 - int32  level
 - int32  race
@@ -12,3 +14,4 @@ array  friends
 - byte   unk4
 - int16  unk5
 - int64  lastOnline
+- string name

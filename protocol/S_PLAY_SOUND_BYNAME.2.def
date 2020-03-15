@@ -1,4 +1,5 @@
-string sound
+
 uint64 gameId
 uint32 unk
 vec3 loc
+string sound

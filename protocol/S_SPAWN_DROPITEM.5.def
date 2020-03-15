@@ -1,5 +1,6 @@
-array  owners
-- uint32 playerId
+count  owners
+offset owners
+
 uint64 id
 float  x
 float  y
@@ -12,3 +13,5 @@ bool masterwork
 uint32 enchant
 uint64 mob
 byte   enableDebugMode
+array  owners
+- uint32 playerId

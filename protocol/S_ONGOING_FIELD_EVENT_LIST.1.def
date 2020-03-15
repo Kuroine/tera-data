@@ -1,5 +1,5 @@
 array missions
-- string name
-- uint32 zone
-- uint32 id
-- uint32 time # in seconds
+-uint32 zone
+-uint32 id
+-uint32 time # in seconds
+-string name

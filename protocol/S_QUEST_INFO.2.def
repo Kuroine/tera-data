@@ -1,10 +1,4 @@
 array quests
-- array dialogs
-- - vec3  loc
-- - int32 huntingZoneId
-- - int32 templateId
-- - int32 zone
-- array<int32> tasks # progress
 - int32 id
 - int32 dbid
 - int32 step
@@ -20,3 +14,11 @@ array quests
 - int32 unk9  # 0?
 - int32 unk10 # 0?
 - int32 unk11 # 0?
+
+- array dialogs
+- - vec3  loc
+- - int32 huntingZoneId
+- - int32 templateId
+- - int32 zone
+
+- array<int32> tasks

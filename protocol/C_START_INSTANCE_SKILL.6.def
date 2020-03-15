@@ -1,5 +1,10 @@
 # MajorPatchVersion >= 74
 
+skillid  skill
+vec3     loc
+angle    w
+bool     continue
+
 array    targets
 - uint32 arrowId
 - uint64 gameId
@@ -7,8 +12,3 @@ array    targets
 
 array    endpoints
 - vec3   loc
-
-skillid  skill
-vec3     loc
-angle    w
-bool     continue

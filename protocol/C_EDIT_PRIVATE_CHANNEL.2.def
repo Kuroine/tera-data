@@ -1,3 +1,8 @@
-array<uint32> members # playerIds
-string name
+count members
+offset members
+offset name
+
 uint16 password
+string name
+
+array<uint32> members # playerIds

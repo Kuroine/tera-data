@@ -1,3 +1,6 @@
+count listings
+offset listings
+
 array listings
 - uint32 listing
 - int32 unk1

@@ -1,5 +1,9 @@
+count  members
+offset members
+string info
+
 array  members
-- string name
+- offset name
 - uint32 serverId
 - uint32 playerId
 - int32  level
@@ -9,4 +13,4 @@ array  members
 - int32  order
 - byte   canInvite
 - int32  unk
-string info
+- string name
